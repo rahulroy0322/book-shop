@@ -1,0 +1,16 @@
+node_modules
+*lock*
+*.json
+*.ico
+.prettier*
+*ignore*
+.husky
+**/*.mp3
+**/*.m4a
+
+*.jpg
+*.jpeg
+*.jpe
+*.jif
+*.jfif
+*.jfi

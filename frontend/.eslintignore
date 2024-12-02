@@ -1,0 +1,8 @@
+node_modules
+*lock*
+*.json
+*.ico
+.prettier*
+*ignore*
+.husky
+src/components/ui
